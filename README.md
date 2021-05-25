@@ -45,6 +45,6 @@ ivixx.csv是真实的IVIX报价，来自WIND数据库
 
 * 我算的波动率风险溢价（Volatility Risk Premium）
 
-![image-20210523213721481](README.assets/image-20210523213721481.png)
+![image-20210523213721481](README.assets/vrp.jpeg)
 
 可以发现波动率风险溢价大多小于零，且IVIX与50ETF收盘价呈正相关，符合中国市场现状。
